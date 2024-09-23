@@ -136,7 +136,6 @@ const TranslateApp: React.FC = () => {
       >
         <Grid container spacing={3} sx={{ flexGrow: 1, height: "100%" }}>
           {/* Left Panel */}
-          {/* Left Panel */}
           <Grid item xs={12} md={4}>
             <Card sx={{ backgroundColor: "#f5f5f5", mb: 2 }}>
               <CardContent>
